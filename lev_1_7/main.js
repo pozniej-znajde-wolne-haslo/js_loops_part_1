@@ -8,7 +8,7 @@ do {
   
   console.log(sentence);
 } 
-  while (i < 5);
+  while (i <= 4); // OR 'i < 5'
 
 
 
